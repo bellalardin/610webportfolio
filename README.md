@@ -1,5 +1,5 @@
 # 610webportfolio
-This is my repo for my ENGCMP 0610 web portfolio.
+This is my repo for my ENGCMP 0610 web portfolio. At this stage of the project, I have mapped out how I want the website to look, but have not inserted content or done much CSS styling.
 
 I am planning on making a job-seeking portfolio to use when applying to internships and special programs. The field that I want to work in is broadcast engineering, but most summer internships for students with my major are in industries like robotics, energy, or automation. I want the portfolio to be equally as effective no matter which kind of job I am applying for.
 
