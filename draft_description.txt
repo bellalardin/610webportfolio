@@ -1,0 +1,5 @@
+For my web portfolio, I am making a job-seeking portfolio. My goal is to be able to use this portfolio when applying to internships for next summer. I'm mostly happy with it so far, but there are a few more things I have to add. The most basic addition to the site will be adding the missing information ("about me" paragraph, class descriptions, and updated job descriptions). Other than that, I'm planning on keeping the content itself the same.
+
+I'm not sure if I'm happy with the CSS right now, so I might change a lot of the styling on the pages. I used the example page from the end of chapter 13 in the textbook ("Boxes") as a template for my CSS and altered it for my page. I like the overall look of the site, but I think I would like to experiment with it more. I would also like to experiment with embedding content from Spotify/Youtube/etc.
+
+Overall, the most important thing about the site is that the information is easy to find and it looks professional. If I can achieve that with the draft, then it serves its purpose. 
