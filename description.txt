@@ -1,0 +1,3 @@
+For my web portfolio, I am making a job-seeking portfolio. My goal is to be able to use this portfolio when applying to internships for next summer. I'm very happy with how it turned out, and I would like to update it further as I complete more work related to engineering. 
+
+I feel that the website looks professional enough at this point to use it for applying to internships, although I would still like to experiment more with the CSS styling. However, I like the minimalistic feel to it at the moment, and I feel that it has enough content to serve as a web portfolio.
