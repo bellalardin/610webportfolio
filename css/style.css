@@ -9,7 +9,6 @@
       }
 			#name {
         text-align: center;
-				font-size: 300%;
       }
       #about {
         font-size: normal;
@@ -53,7 +52,8 @@
       }
 
         ul {
-  				width: 700px;
+          max-width: 850px;
+  				min-width: 720px;
   				padding: 15px;
   				margin: 0px auto 0px auto;
   				border-top: 1px solid #000;
@@ -77,9 +77,9 @@
       h1 {
         width: 700px;
         padding: 15px;
+        padding-bottom: 30px;
         margin: 0px auto 0px auto;
-        border-top: 1px solid #000;
-        border-bottom: 1px solid #000;
+        font-size: 300%;
         text-align: center;
       }
       h2 {
@@ -99,7 +99,29 @@
         padding: 0px 0px 0px 30px;
         float: right;
       }
+      video {
+        min-width: 650px;
+        max-width: 70%;
+        max-height: 70%;
+        padding: 15px 0px 0px 85px;
+        margin: auto 0px;
+        display: block;
+        text-align: center;
+      }
       h4 {
         font-size: 200%;
+      }
+      h5 {
+        width: 700px;
+        padding: 15px;
+        margin: 0px auto 0px auto;
+        border-top: 1px solid #000;
+        border-bottom: 1px solid #000;
+        margin: 0px auto 0px auto;
+        font-size: 230%;
+        text-align: center;
+      }
+      #bottomtext {
+        text-align: center;
       }
 }
